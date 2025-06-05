@@ -1,3 +1,4 @@
+
 # This file is in YAML format.  You must ensure that the punctuation
 # and whitespace is preserved.  Also, beware of ':' and quotation mark
 # characters: these have meaning in YAML and so must be "escaped" by
@@ -8,41 +9,28 @@
 # Do NOT use Windows Notepad to edit this file; use a real programming
 # editor like Notepad++ instead.
 
-# Write your group name exactly as it appears on Canvas.
-group: 
+group: 'Referred Group19'
 
-# Write the names of your group members as a comma-separated list
-# within the square brackets.
-members: []
+members: ['Nikhil Choudhary']
 
-# Write a short description of your application
-topic: 
+topic: 'Bike Renting'
 
-# For the following sections, you may write multiple paragraphs, each
-# with multiple lines, under the key. But be sure *every* line is
-# indented at the same level as the first line under the key (see
-# `example.yml` for examples).
+customer_power: |
+  Customers have a high degree of power in the bike renting market because they have many rental options, including dockless bike sharing and traditional rental shops. Price sensitivity and ease of use influence customer decisions.
 
-# Note that the '>' character means the text spanning multiple lines
-# should be concatenated into a single paragraph.  Paragraphs are
-# separated by blank lines, and *all* lines must be indented.
+substitute_threat: |
+  The threat of substitutes is significant, with alternatives like electric scooters, public transport, walking, and car sharing services. These offer convenience and similar value, posing a strong threat.
 
-# Write your assessment of the rivalry between existing competitors.
-competitor_rivalry: >
+new_entrant_threat: |
+  The barrier to entry in the bike rental market is moderate. Although infrastructure and capital investment are required, digital platforms make entry easier for tech-savvy newcomers.
 
-# Write your assessment of the threat of new entrants.
-new_entrant_threat: >
+competitor_rivalry: |
+  Competition is intense due to the presence of local rental shops, global bike-sharing apps, and newer eco-friendly startups. Innovation and pricing play key roles in attracting customers.
 
-# Write your assessment of the threat of substitute products or services.
-substitute_threat: >
+supplier_power: |
+  Supplier power is low to moderate. Bike manufacturers are many, and most rental companies can choose from several suppliers. However, dependency on specific maintenance and IoT technologies can raise switching costs.
 
-# Write your assessment of the bargaining power of customers.  
-customer_power: >
+competitive_strategy: |
+  Our strategy focuses on providing convenient, affordable, and eco-friendly rentals through a user-friendly mobile app. Differentiation through location-based deals and loyalty rewards will help retain customers.
 
-# Write your assessment of the bargaining power of suppliers.
-supplier_power: >
-
-# Write your conclusion regarding the appropriate competitive strategy to pursue, based on
-# your assessments above.
-competitive_strategy: >
 
